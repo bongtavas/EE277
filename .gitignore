@@ -1,0 +1,6 @@
+*.ipynb_checkpoints/
+*/venv
+me-1/EE277_ME1_codewordassignment.txt
+me-1/EE277_ME1_decoder_out.txt
+me-1/EE277_ME1_encoder_out.txt
+me-1/EE277_ME1_frequencyplot.png
