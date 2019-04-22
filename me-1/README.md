@@ -3,7 +3,7 @@
 ## Prerequisites
 ### Install Python 3.7
 ```bash
-$ sudo apt updatesudo apt install software-properties-common
+$ sudo apt update sudo apt install software-properties-common
 $ sudo add-apt-repository ppa:deadsnakes/ppa
 $ sudo apt install python3.7
 ```
