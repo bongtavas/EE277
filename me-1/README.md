@@ -21,10 +21,12 @@ $ pip install -r requirements.txt
 
 ## Running the code
 ```
-# Make sure you are in the virtualenv
-$ source venv/bin/activate
+# Make sure you ar in the virtualenv
+$ git clone https://github.com/RomelioTavas/ee277.git
+$ cd ee277/me-1
 $ jupyter notebook
 ```
+
 
 Then a browser window will open automatically and show the jupyter interface
 Click on ee277-me-1.ipynb to view notebook
