@@ -28,7 +28,10 @@ $ jupyter notebook
 ```
 
 
-Then a browser window will open automatically and show the jupyter interface
+- Then a browser window will open automatically and show the jupyter interface
 Click on ee277-me-1.ipynb to view notebook
 If the browser window does not automatically show,
 Please navigate to: http://localhost:8888/notebooks/ee277-me-1.ipynb using your browser
+
+- Run each cell with Shift + Enter
+
