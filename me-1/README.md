@@ -21,7 +21,7 @@ $ pip install -r requirements.txt
 
 ## Running the code
 ```
-# Make sure you ar in the virtualenv
+# Make sure you are still in the virtualenv
 $ git clone https://github.com/RomelioTavas/ee277.git
 $ cd ee277/me-1
 $ jupyter notebook
